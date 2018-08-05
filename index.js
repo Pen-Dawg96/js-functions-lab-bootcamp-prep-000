@@ -3,5 +3,6 @@
 function happyHolidays(string){
   return("Happy holidays!")
 }
-var
+var name
+name = 
 function happyHolidaysTo(name)
