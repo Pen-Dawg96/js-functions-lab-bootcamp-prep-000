@@ -5,11 +5,11 @@ function happyHolidays(string){
 }
 
 function happyHolidaysTo(name){
-  console.log("Happy holidays, ${name}!")
+  console.log(`Happy holidays, ${name}!`)
 }
 happyHolidaysTo('you')
 function happyHolidayTo(holiday, name){
-  console.log("Happy ${holiday}, ${name}!")
+  console.log(`Happy ${holiday}, ${name}!`)
 }
 
 function holidayCountdown(holiday, days){
