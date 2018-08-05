@@ -8,11 +8,10 @@ function happyHolidaysTo(name){
   console.log(`you`)
   return(`Happy holidays, ${name}!`)
 }
-happyHolidaysTo("you")
 function happyHolidayTo(holiday, name){
   return(`Happy ${holiday}, ${name}!`)
 }
-
+happyHolidayTo("Independence day", "you")
 function holidayCountdown(holiday, days){
   
 }
