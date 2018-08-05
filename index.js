@@ -3,5 +3,5 @@
 var happyHolidays = "Happy Holidays!"
 
 function happyHolidays(string){
-  return string
+  
 }
